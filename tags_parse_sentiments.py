@@ -205,4 +205,4 @@ fil2.Upload()
 fil3.Upload()
 
 # Instruction for running in Pythonanywhere
-# In Bash console write: python3.4 tags-parse-topics-mentions-polarity.py
+# In Bash console write: python2.7 tags-parse-topics-mentions-polarity.py
