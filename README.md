@@ -3,9 +3,9 @@ Automation of twitter data collection through utilization of TAGS and Google Dri
 
 This script allows you to use a simple process:
 1. Use TAGS to collect data from Twitter. You can set TAGS to collect data hourly.
-2. Use Pythonanywhere to pull data directly from your TAGS Google Sheet
+2. Use Pythonanywhere to pull the data directly from your TAGS Google Sheet automatically
 3. Use Pythonanywhere to process the data for sentiment analysis purposes, and write this as three output files
-4. Use Pythonanywhere to send send data to Google Drive destination folder. This can be set as a scheduled task that runs in the background.
+4. Use Pythonanywhere to send send the data to Google Drive destination folder. This can be set as a scheduled task that runs in the background.
 
 Prerequisites:
 - You need to enable Google Drive API in Google Cloud and create credentials for this API.
