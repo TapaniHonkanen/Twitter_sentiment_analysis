@@ -8,6 +8,8 @@ This script allows you to use a simple process:
 4. Use Pythonanywhere to send send data to Google Drive destination folder. This can be set as a scheduled task.
 
 Prerequisites:
-- You need to enable Google Drive API in Google Cloud
+- You need to enable Google Drive API in Google Cloud and create credentials for this API
 - You need to have settings.yaml configured according to Google Cloud credentials, and copied to your working directory
 - You need to run the script once in your own computer to generate the required credentials.json file (by above settings.yaml).
+
+Pythonanywhere is mentioned above because that is what was used by me. You can of course use any other similar service for this.
